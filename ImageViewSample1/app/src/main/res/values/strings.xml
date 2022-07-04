@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageViewSample1</string>
+    <string name="fact_one" />
+    <string name="fact_two" />
+    <string name="fact_three" />
+    <string name="todo">TODO</string>
+    <string name="random_fact">Random Fact</string>
+</resources>
